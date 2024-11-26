@@ -1,0 +1,15 @@
+    Endpoints login e logout 
+
+    Endpoints CRUD User 
+
+    Endpoints CRUD Shelter 
+
+    Endpoints CRUD Item 
+
+    Endpoints CRUD Abrigados 
+
+    Endpoint GetSheltersByUserId 
+
+    Endpoint GetAbrigadosByShelterID 
+
+    Endpoint GetItensByShelterID 
